@@ -1,1 +1,24 @@
-im a gut
+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
+
+
+[root@ip-172-31-92-116 ~]# cd ~/.ssh
+[root@ip-172-31-92-116 .ssh]# ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/root/.ssh/id_rsa):
+Enter passphrase (empty for no passphrase):
+Enter same passphrase again:
+Your identification has been saved in /root/.ssh/id_rsa.
+Your public key has been saved in /root/.ssh/id_rsa.pub.
+The key fingerprint is:
+SHA256:Q4laIAopCi0GmV5JkH8FoGmMP9KPZsmtWGzRuveBafo root@ip-172-31-92-116.ec2.internal
+The key's randomart image is:
++---[RSA 2048]----+
+|+*=o+..          |
+|@+++ . o .       |
+|O*o   + o        |
+|o+ o + .         |
+|. = +   S        |
+| + O o   .       |
+|  @ * .          |
+| * =.  .         |
+|. +oE..          |
